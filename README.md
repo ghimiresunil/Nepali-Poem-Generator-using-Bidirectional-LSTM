@@ -1,5 +1,7 @@
 # Nepali-Poem-Generator-using-Bidirectional-LSTM
 Nepali Poem Generator using Bidirectional LSTM
+![Bi-directional_LSTM](https://user-images.githubusercontent.com/40186859/139581891-e5f47f39-b316-4fed-968b-bfc9121bd4c8.png)
+
 
 ## Generating Sequence of N-gram Tokens:
 
